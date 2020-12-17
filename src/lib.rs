@@ -182,7 +182,7 @@ pub mod test_common;
 
 /// Tests XOR128.
 #[cfg(test)]
-mod test_xor128;
+//mod test_xor128;
 
 /// Tests data.
 #[cfg(test)]
